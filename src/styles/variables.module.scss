@@ -1,0 +1,20 @@
+// sidebar
+$menuText: #bfcbd9;
+$menuActiveText: #ffffff;
+$subMenuActiveText: #f4f4f5;
+
+$menuBg: #20374b;
+$mainColor: #27b791;
+
+$sideBarWidth: 210px;
+$hideSideBarWidth: 54px;
+$sideBarDuration: 0.28s;
+
+:export {
+  menuText: $menuText;
+  menuActiveText: $menuActiveText;
+  subMenuActiveText: $subMenuActiveText;
+  menuBg: $menuBg;
+  mainColor: $mainColor;
+  sideBarWidth: $sideBarWidth;
+}
